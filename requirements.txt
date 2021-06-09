@@ -1,4 +1,4 @@
-Django==2.2.8
+Django==2.2.22
 django-model-utils==3.2.0
 git+https://github.com/chrisgrande/django-trix.git@507ecf3a90a0b0#egg=django-trix
 git+https://github.com/fdemmer/django-weasyprint
